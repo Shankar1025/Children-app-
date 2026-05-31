@@ -1,0 +1,6 @@
+{
+  "name": "PetBuddy Kids",
+  "description": "A gamified daily habit tracker and virtual pet companion app for children.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
